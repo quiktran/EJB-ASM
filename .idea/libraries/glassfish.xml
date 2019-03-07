@@ -1,0 +1,77 @@
+<component name="libraryTable">
+  <library name="glassfish">
+    <CLASSES>
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/AuthHeader" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/BabyShop" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/DatasourceRealmDemo" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/DemoApp/DemoApp-war_war" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/DemoEcommerce" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/DemoEcommerceModel2" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/DemoEcommerce_Model_1" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/DemoMVC" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/DemoSQLInjection" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/Demo_Initialize_servlet" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/Demo_initialize__Servlet" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/Demoi18N" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/EmployeeEJBvsSessionJPA" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/FilterDemo" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/FormbasedAuth" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/HRManager" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/HRMng2.1" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/IXJ_Examples" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/Initialize_Servlet" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/InterI18N" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/JDBCRealm_DigestDemo" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/JSPMVCModel1" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/JSPforBeginner" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/JspModel1MVC" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/JspShoppingCartMVC1" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/ListStudent" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/LiveDemoImplicitObject" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/Log" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/LoginMVCvsJDBC" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/Login_Session_MVC" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/MVC2" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/MVC2vsJPA" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/MyCus-war" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/MyFilter" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/MyFirstProject" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/MyFirstWeb" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/MyFirstWebApp" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/MyMVC" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/MyShop" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/MyShopMVC" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/MyStruts01" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/MyStrutsProject" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/SQLInjection" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/SQLInjectionDEmo" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/SQLInjections" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/ServletLifeCycle" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/ServletProject" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/ShopingCartUsingJavaBean" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/ShoppingCartMVC" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/UserManageEJB" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/UserManagement" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/UserWebClient" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/WebApplication1" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/WordCounter" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/WordCounters" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/WordsCounter" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/ecommerceShop" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/filterconfig" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/helloworld" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/i18N" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/i18NJSPWeb" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/i18Njspwebsite" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/i18nDemo" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/jsp-program" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/jspProgram" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/myi18n" />
+      <root url="file:///Applications/NetBeans/glassfish-4.1.1/glassfish/domains/domain1/generated/jsp/xmlWebApplication" />
+    </SOURCES>
+  </library>
+</component>

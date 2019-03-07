@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<!--<head>-->
+    <!--<meta charset="UTF-8">-->
+    <!--<title>Title</title>-->
+    <head th:replace="layout/frag :: head(title='Login Page')"></head>
+<!--</head>-->
+<body>
+<!--<div th:replace="layout/frag :: header(title='List Product')"></div>-->
+    <h1>login page</h1>
+    <form action="/login" method="post">
+        username: <input type="text" name="username"><br>
+        password: <input type="password" name="password"><br>
+        <input type="submit" value="Login">
+    </form>
+</body>
+</html>
